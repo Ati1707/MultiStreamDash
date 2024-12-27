@@ -460,3 +460,6 @@ MigrationBackup/
 
 # macOS folder settings
 .DS_Store
+
+# Own additions
+/.idea/
